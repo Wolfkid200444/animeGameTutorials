@@ -27,7 +27,7 @@ U will need to download these programs/files to be able to run your own PS
 - Download Resources
 - Extract LunaGC
 - Extract Resources inside of LunaGC folder and rename the folder to `resources` inside of LunaGC
-- Run Gradlew (Alternative u can open your terminal and run `./gradle-jar.bat` if running Gradlew doesnt work)
+- Run Gradlew (Alternative u can open your terminal and run `./gradlew-jar.bat` if running Gradlew doesnt work)
 
 ### Cultivation :
 
